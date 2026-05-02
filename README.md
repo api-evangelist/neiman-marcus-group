@@ -1,11 +1,33 @@
-# Neiman Marcus Group
+# Neiman Marcus Group (neiman-marcus-group)
 
-This is a repository for tracking the APIs, SDKs, and other developer resources for Neiman Marcus Group.
+Neiman Marcus Group is an American chain of luxury department stores selling designer apparel, accessories, jewelry, beauty, home, and gifts under the Neiman Marcus, Bergdorf Goodman, and Last Call banners.
+
+**APIs.json:** [apis.yml](https://raw.githubusercontent.com/api-evangelist/neiman-marcus-group/refs/heads/main/apis.yml)
+
+## Scope
+
+- **Type:** Index
+
+## Tags
+
+- Retail
+- Luxury
+- Department Store
+
+## Timestamps
+
+- **Created:** 2026-03-24
+- **Modified:** 2026-04-28
 
 ## APIs
 
-No APIs have been documented yet. Check back for updates.
+No public APIs have been documented yet. Check back for updates.
 
-## Properties
+## Common
 
-- [Website](https://www.neiman-marcus-group.com)
+- [Website](https://www.neimanmarcusgroup.com)
+
+## Maintainers
+
+- **FN:** Kin Lane
+- **Email:** kin@apievangelist.com
