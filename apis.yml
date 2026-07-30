@@ -5,7 +5,18 @@ description: >-
   apparel, accessories, jewelry, beauty, home, and gifts under the Neiman Marcus,
   Bergdorf Goodman, and Last Call banners.
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/neiman-marcus-group.png
 tags:
   - Retail
   - Luxury
