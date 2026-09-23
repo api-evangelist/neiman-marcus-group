@@ -1,7 +1,9 @@
 ---
 title: Saks Promises 'Innovation' After Neiman Marcus Acquisition
 url: https://www.pymnts.com/news/retail/2024/saks-promises-innovation-and-growth-after-completing-neiman-marcus-acquisition/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Neiman Marcus Group" press release artificial intelligence'
 position: 2
 source: serpapi-google

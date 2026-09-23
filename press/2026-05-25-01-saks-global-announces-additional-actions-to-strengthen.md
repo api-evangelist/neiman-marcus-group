@@ -1,7 +1,9 @@
 ---
 title: Saks Global Announces Additional Actions to Strengthen ...
 url: https://www.prnewswire.com/news-releases/saks-global-announces-additional-actions-to-strengthen-luxury-retail-positioning-and-drive-profitable-and-sustainable-growth-302684169.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Neiman Marcus Group" press release artificial intelligence'
 position: 1
 source: serpapi-google

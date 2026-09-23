@@ -1,7 +1,9 @@
 ---
 title: Industry Insights
 url: https://www.afslaw.com/services/1121/all
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Neiman Marcus Group" press release artificial intelligence'
 position: 5
 source: serpapi-google
